@@ -1,0 +1,12 @@
+{
+  "name": "hapiest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bchiatt/hapiest",
+  "authors": [
+    "Brian Hiatt <brian.hiatt41@gmail.com>"
+  ],
+  "description": "The HAPIEST Template",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
